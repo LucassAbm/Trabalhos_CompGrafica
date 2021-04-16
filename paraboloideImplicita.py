@@ -6,6 +6,7 @@ from math import *
 #FUNCAO
 
 def f(x,y):
+    #return x**2 - y**2
     return -x**2 - y**2
 
 M, N = 100, 100
