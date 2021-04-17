@@ -1,3 +1,13 @@
+# Como funciona:
+# O código utiliza da ferramenta 'PyOpenGL' e precisa de suas bibliotecas instaladas para execução.
+# Assim que aberto o código, execute normalmente.
+# Assim que executado, é possível mover o paraboloide com as teclas direcionais do teclado para variações na sua visualização, seguindo o referencial inicial.
+# TECLAS: DIREITA -> Sentido horário/ ESQUERDA -> Sentido antihorário/ CIMA -> Gira para frente/ BAIXO -> Gira para trás
+
+# Informações:
+# Linha 19 - Se descomentada, mostra o outro paraboloide por função implícita presente no documento enviado para avaliação.
+
+
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
 from OpenGL.GL import *
