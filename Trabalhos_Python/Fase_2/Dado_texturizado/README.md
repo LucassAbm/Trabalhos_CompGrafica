@@ -7,7 +7,7 @@
 ### Como executar
 
 1. O código utiliza [Python3].
-2. Assim que o arquivo [textura_dado.py] for aberto, é preciso baixar o arquivo [dado.png], salvá-lo em um local de conhecimento do usuário, copiar o 'path' da imagem e modificar o 'path' da linha 26 do código para este 'path' que foi copiado.
+2. Assim que o arquivo [textura_dado.py](textura_dado.py) for aberto, é preciso baixar o arquivo [dado.png], salvá-lo em um local de conhecimento do usuário, copiar o 'path' da imagem e modificar o 'path' da linha 26 do código para este 'path' que foi copiado.
 3. Assim que os passos anteriores foram feitos, execute-o normalmente.
 
 ### Interações
