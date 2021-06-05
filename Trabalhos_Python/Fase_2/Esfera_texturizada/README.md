@@ -6,7 +6,7 @@
 
 ### Como executar
 
-1. O código utiliza [Python3].
+1. O código utiliza Python3.
 2. Assim que o arquivo [textura_esfera.py](textura_esfera.py) for aberto, é preciso baixar o arquivo [mapa.png](mapa.png), salvá-lo em um local de conhecimento do usuário, copiar o 'path' da imagem e modificar o 'path' da linha 55 do código para este 'path' que foi copiado.
 3. Assim que os passos anteriores foram feitos, execute-o normalmente.
 
