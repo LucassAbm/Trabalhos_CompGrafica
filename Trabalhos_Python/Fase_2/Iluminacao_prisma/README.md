@@ -7,7 +7,7 @@
 ### Como executar
 
 1. O código utiliza [Python3].
-2. Assim que o arquivo [prisma_iluminado.py] for aberto, execute-o normalmente.
+2. Assim que o arquivo [prisma_iluminado.py](prisma_iluminado.py) for aberto, execute-o normalmente.
 
 ### Observações
 
