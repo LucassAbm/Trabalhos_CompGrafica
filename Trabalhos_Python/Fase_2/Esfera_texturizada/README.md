@@ -12,6 +12,6 @@
 
 ### Interações
 
-1. Mouse click and drag: Move a figura.
-2. Mouse wheel: Modifica o zoom da figura.
-3. 'Space': Alterna o estado de rotação da figura.
+1. **Mouse click and drag**: Move a figura.
+2. **Mouse wheel**: Modifica o zoom da figura.
+3. **Space**: Alterna o estado de rotação da figura.
