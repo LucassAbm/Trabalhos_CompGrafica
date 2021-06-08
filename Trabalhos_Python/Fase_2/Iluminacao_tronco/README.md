@@ -1,4 +1,4 @@
-## Prisma Iluminado
+## Tronco de Pirâmide Iluminado
 
 ### Como funciona
 
