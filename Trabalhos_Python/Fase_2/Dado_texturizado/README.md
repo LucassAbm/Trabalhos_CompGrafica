@@ -12,6 +12,6 @@
 
 ### Interações
 
-1. **X + Left/Right arrow**: Rotação em torno do eixo X
-2. **Y + Left/Right arrow**: Rotação em torno do eixo Y
-2. **Z + Left/Right arrow**: Rotação em torno do eixo Z
+1. **X + Left/Right arrow**: Rotação em torno do eixo X.
+2. **Y + Left/Right arrow**: Rotação em torno do eixo Y.
+2. **Z + Left/Right arrow**: Rotação em torno do eixo Z.
